@@ -55,15 +55,15 @@ _***Disclaimer***_
 	4. Reboot the device if performing this step only. Otherwise goto next step
 
 10. **Fix - MDM-HostFile**
-	1. Goto this URL - `https://github.com/backupzz/skipmdm.com`
-	2. Copy the following - `curl https://raw.githubusercontent.com/backupzz/skipmdm.com/main/mdm-hostfile.sh -o mdm-hostfile.sh && chmod +x ./mdm-hostfile.sh && sudo ./mdm-hostfile.sh`
+	1. Goto this URL - `https://github.com/zupinguk/skipmdm.com`
+	2. Copy the following - `curl https://raw.githubusercontent.com/zupinguk/skipmdm.com/main/mdm-hostfile.sh -o mdm-hostfile.sh && chmod +x ./mdm-hostfile.sh && sudo ./mdm-hostfile.sh`
 	3. Open CLI - T3RMIN@L
 		1. Paste the contents from the clipboard
 		2. Follow the steps
 	4. Reboot the device if performing this step only. Otherwise goto next step
 
 11. **Disable Device Enrollment Notification**
-	1. Goto this URL - `https://github.com/backupzz/skipmdm.com`
+	1. Goto this URL - `https://github.com/zupinguk/skipmdm.com`
 	12. Copy the following - `sudo open /System/Applications/TextEdit.app /System/Library/LaunchDaemons/com.apple.ManagedClient.enroll.plist`
 	23. To edit `com.apple.ManagedClient.enroll.plist`
 		1. Open CLI - T3RMIN@L
