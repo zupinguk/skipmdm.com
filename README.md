@@ -24,8 +24,8 @@ _***Disclaimer***_
 4. **Performing MDM Auto-by-pass**
 	1. Enter Recovery mode - 3rd time
 	2. Open the internet browser - S@F@R!
-		1. Goto this URL - `https://github.com/backupzz/skipmdm.com`
-		2. Copy the following - `curl https://raw.githubusercontent.com/backupzz/skipmdm.com/main/mdm-autobypass.sh -o mdm-autobypass.sh && chmod +x ./mdm-autobypass.sh && ./mdm-autobypass.sh`
+		1. Goto this URL - `https://github.com/zupinguk/skipmdm.com`
+		2. Copy the following - `curl https://raw.githubusercontent.com/zupinguk/skipmdm.com/main/mdm-autobypass.sh -o mdm-autobypass.sh && chmod +x ./mdm-autobypass.sh && ./mdm-autobypass.sh`
 		3. Exit out of the browser
 	3. Open the CLI - T3RMIN@L
 		1. Paste the contents from the clipboard
@@ -47,8 +47,8 @@ _***Disclaimer***_
 8. Login using the newly created username
 
 9.  **Fix - MDM-Profile**
-	1. Goto this URL - `https://github.com/backupzz/skipmdm.com`
-	2. Copy the following - `curl https://raw.githubusercontent.com/backupzz/skipmdm.com/main/mdm-config.sh -o mdm-config.sh && chmod +x ./mdm-config.sh && ./mdm-config.sh`
+	1. Goto this URL - `https://github.com/zupinguk/skipmdm.com`
+	2. Copy the following - `curl https://raw.githubusercontent.com/zupinguk/skipmdm.com/main/mdm-config.sh -o mdm-config.sh && chmod +x ./mdm-config.sh && ./mdm-config.sh`
 	3. Open CLI - T3RMIN@L
 		1. Paste the contents from the clipboard
 		2. Follow the steps
