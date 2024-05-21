@@ -64,7 +64,7 @@ mountVolume() {
 
 echo -e "${CYAN}*-------------------*---------------------*${NC}"
 echo -e "${YELLOW}* Check MDM - Skip MDM Auto for MacOS by  *${NC}"
-echo -e "${RED}*             SKIPMDM.COM                 *${NC}"
+echo -e "${RED}*             SKIPMDM.COM   晨铭大佬              *${NC}"
 echo -e "${RED}*            Phoenix Team                 *${NC}"
 echo -e "${CYAN}*-------------------*---------------------*${NC}"
 echo ""
