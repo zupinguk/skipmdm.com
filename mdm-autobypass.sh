@@ -6,7 +6,7 @@
 
 # Global constants
 readonly DEFAULT_SYSTEM_VOLUME="Macintosh HD"
-readonly DEFAULT_DATA_VOLUME="Data"
+readonly DEFAULT_DATA_VOLUME="Macintosh HD - Data"
 
 # Text formating
 RED='\033[1;31m'
